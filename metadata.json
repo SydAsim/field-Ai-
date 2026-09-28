@@ -1,0 +1,6 @@
+{
+  "name": "FieldAssist AI - Field Service Assistant",
+  "description": "AI-powered field assistant prototype for field service professionals to conduct voice consultations, navigate knowledge libraries, manage jobs, and track clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
